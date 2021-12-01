@@ -13,13 +13,13 @@ To this page you should add links to your interactive html-maps that are located
 Here is an example how to do it in MarkDown for user HTenkanen:
 
 ```
-[Link to test map](https:github.com/saswatisaha18/epi-MEIF/edit/main/docs/epiMEIF_Illustration.html)
+[Link to test map](https:github.com/saswatisaha18/epi-MEIF/docs/epiMEIF_Illustration.html)
 ```
 
 ## My maps
 
 Add here links to the maps that you have created:
 
- - [Link to test map](https://github.com/saswatisaha18/epi-MEIF/edit/main/docs/epiMEIF_Illustration.html)
+ - [Link to test map](https://github.com/saswatisaha18/epi-MEIF/docs/epiMEIF_Illustration.html)
  - Replace this with your link
 
