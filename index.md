@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/saswatisaha18/epi-MEIF/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -32,7 +31,7 @@ the final interaction network. Finally we show how the MEIF function in
 the epiMEIF method can be executed which combined the mixed effects
 modelling with cforest.
 
-# 1. Cross-sectional Dataset
+#  Cross-sectional Dataset
 
 We have created a cross-sectional dataset using the DGRP dataset where
 there is one 3-way SNP interaction and 4 marginal effects. The data
