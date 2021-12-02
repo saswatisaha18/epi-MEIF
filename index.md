@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Welcome to Jekyll!"
+toc: true
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/saswatisaha18/epi-MEIF/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -28,7 +34,8 @@ the additional testing strategies- max-t test and anova test and obtain
 the final interaction network. Finally we show how the MEIF function in
 the epiMEIF method can be executed which combined the mixed effects
 modelling with cforest.
-{% include toc.html html=content%}
+
+
 # 1. Cross-sectional Dataset
 
 We have created a cross-sectional dataset using the DGRP dataset where
