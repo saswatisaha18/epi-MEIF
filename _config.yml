@@ -1,4 +1,13 @@
 theme: jekyll-theme-cayman
-gem 'jekyll-toc'
-plugins:
-  - jekyll-toc
+markdown: kramdown
+exclude:
+  - index.md
+  - Gemfile
+
+
+theme: null
+
+collections:
+  tests:
+    output: true
+
