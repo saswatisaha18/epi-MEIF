@@ -28,7 +28,7 @@ the additional testing strategies- max-t test and anova test and obtain
 the final interaction network. Finally we show how the MEIF function in
 the epiMEIF method can be executed which combined the mixed effects
 modelling with cforest.
-
+{% include toc.html html=content%}
 # 1. Cross-sectional Dataset
 
 We have created a cross-sectional dataset using the DGRP dataset where
