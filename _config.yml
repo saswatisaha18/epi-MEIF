@@ -1,13 +1,4 @@
 theme: jekyll-theme-cayman
-markdown: kramdown
-exclude:
-  - index.md
-  - Gemfile
-
-
-theme: null
-
-collections:
-  tests:
-    output: true
+kramdown:
+  toc_levels: 2..3
 
