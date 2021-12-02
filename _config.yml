@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+gem 'jekyll-toc'
+plugins:
+  - jekyll-toc
