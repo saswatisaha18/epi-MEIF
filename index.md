@@ -3,8 +3,6 @@ You can use the [editor on GitHub](https://github.com/saswatisaha18/epi-MEIF/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-* TOC
-{:toc}
 
 We have developed a novel approach of epistasis detection using
 mixed-effect conditional inference forest model. The primary goal of our
@@ -31,7 +29,10 @@ the final interaction network. Finally we show how the MEIF function in
 the epiMEIF method can be executed which combined the mixed effects
 modelling with cforest.
 
-#  Cross-sectional Dataset
+* TOC
+{:toc}
+
+# 1. Cross-sectional Dataset
 
 We have created a cross-sectional dataset using the DGRP dataset where
 there is one 3-way SNP interaction and 4 marginal effects. The data
