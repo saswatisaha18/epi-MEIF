@@ -1,9 +1,3 @@
----
-layout: post
-title: "Welcome to Jekyll!"
-toc: true
----
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/saswatisaha18/epi-MEIF/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,6 +29,27 @@ the final interaction network. Finally we show how the MEIF function in
 the epiMEIF method can be executed which combined the mixed effects
 modelling with cforest.
 
+# Table of Content
+
+As mentioned, each file is a single test which has actual values and expected values. Take a look at existing tests but they should follow this template.
+
+```text
+---
+---
+
+{% capture markdown %}
+# Heading 1
+{% endcapture %}
+{% assign text = markdown | markdownify %}
+
+{% include toc.html html=text %}
+
+<!-- /// -->
+
+<ul>
+    <li><a href="#heading-1">Heading 1</a></li>
+</ul>
+```
 
 # 1. Cross-sectional Dataset
 
