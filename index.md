@@ -29,28 +29,6 @@ the final interaction network. Finally we show how the MEIF function in
 the epiMEIF method can be executed which combined the mixed effects
 modelling with cforest.
 
-# Table of Content
-
-As mentioned, each file is a single test which has actual values and expected values. Take a look at existing tests but they should follow this template.
-
-```text
----
----
-
-{% capture markdown %}
-# Heading 1
-{% endcapture %}
-{% assign text = markdown | markdownify %}
-
-{% include toc.html html=text %}
-
-<!-- /// -->
-
-<ul>
-    <li><a href="#heading-1">Heading 1</a></li>
-</ul>
-```
-
 # 1. Cross-sectional Dataset
 
 We have created a cross-sectional dataset using the DGRP dataset where
