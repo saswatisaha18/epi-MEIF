@@ -1,9 +1,3 @@
-
-You can use the [editor on GitHub](https://github.com/saswatisaha18/epi-MEIF/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
 We have developed a novel approach of epistasis detection using
 mixed-effect conditional inference forest model. The primary goal of our
 approach is to identify the epistatic interactions networks of genetic
